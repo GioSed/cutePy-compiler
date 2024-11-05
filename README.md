@@ -50,11 +50,11 @@ CutePy provides basic control structures, expressions, and functions similar to 
 
 ### **Special Symbols and Keywords**:
 
-Special Symbols:
-#$    : Multi-line comment start and end.
-#{    : Left hash bracket (used to mark a block of code).
-#}    : Right hash bracket (used to close a block of code).
-#     : Single-line comment.
+- **Special Symbols**:
+  - #$    : Multi-line comment start and end.
+  - #{    : Left hash bracket (used to mark a block of code).
+  - #}    : Right hash bracket (used to close a block of code).
+  - #     : Single-line comment.
 
 Keywords:
 declare : Used to declare variables
