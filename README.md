@@ -48,17 +48,21 @@ CutePy provides basic control structures, expressions, and functions similar to 
 - `;`      : Semicolon for ending statements
 - `:`      : Colon used after `if`, `else`, and function definitions
 
-  Special Symbols:
-#$ : Multi-line comment start and end.
-#{ : Left hash bracket (used to mark a block of code).
-#} : Right hash bracket (used to close a block of code).
-# : Single-line comment.
+### **Special Symbols and Keywords**:
+
+```plaintext
+Special Symbols:
+#$    : Multi-line comment start and end.
+#{    : Left hash bracket (used to mark a block of code).
+#}    : Right hash bracket (used to close a block of code).
+#     : Single-line comment.
+
 Keywords:
 declare : Used to declare variables
-def : Defines a function
-if : Conditional statement
-else : Else block for if
-while : Loop construct
-return : Return a value from a function
-input : Reads input from the user
-print : Outputs to the console
+def     : Defines a function
+if      : Conditional statement
+else    : Else block for if
+while   : Loop construct
+return  : Return a value from a function
+input   : Reads input from the user
+print   : Outputs to the console
